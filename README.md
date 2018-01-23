@@ -1,16 +1,13 @@
-## Clone this repository. 
-
+# Clone this repository. 
 You will do this exercise in groups. 
 One person should type in the inputs. 
 One person should type in the outputs. 
 One person should type in the processes. 
-
 ### Put each IPO in a different file.  
-
 ## Hello world - where does the output go, and why? 
-
 |Input              |Process                                 |Output                                               |
 |-------------------|----------------------------------------|-----------------------------------------------------|
+<<<<<<< HEAD
 |Person says:Hello  |                  | 
 |                   |Understand you have just been greeted   |
 |                   |                                        | Speak:Hello
@@ -55,10 +52,24 @@ Understand that gratitude has been expressed and respond accordingly
 Speak: When you leave this room (room 440/441), turn left and continue past the elevators.
 
 Speak:Turn left just before the glass doors to the reception. Look for the bathrooms on your left.  
+=======
+|                   |                                        | Speak:Hello                                         |
+|Person says:Hello  |Understand you have just been greeted   |   Speak:Hello                                       |
+|                   |                                        |                                          |
+|                   |                                        |                                                     |
+|                   |                                        |                                                     |
+|                   |                                        |                                                     |
+|                   |                                        |                                                     |
+|                   |                                        |                                                     |
+|                   |                                        |                                                                       |                                                     |
+|                   |                                        |                                                     |
+|                   |                                        |                                                     |
+|                   |                                        |                                                     |
+|  speak:Thank you                 |                                        |                                                     |
+|                   |                                        |                                                     |e bathroom is in relation to your current location
+>>>>>>> 82e6a47263aaaabef79142bace45604389cf3bbd
 
-Stay silent
 
-Speak: You're welcome 
 
 ### Write an IPO for the directions to Subway.
 
