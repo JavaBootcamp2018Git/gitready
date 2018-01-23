@@ -11,9 +11,12 @@ One person should type in the processes.
 
 |Input              |Process                                 |Output                                               |
 |-------------------|----------------------------------------|-----------------------------------------------------|
-|                   |                                        | Speak:Hello                                         |
-|Person says:Hello  |Understand you have just been greeted   | Speak:Hello                                         |
-|                   |                                        | Speak:Hello                                         |
+|Person says:Hello  |                  | 
+|                   |Understand you have just been greeted   |
+|                   |                                        | Speak:Hello
+|Question: How do I get to the bathroom|                     |
+|                   |Listen to the question and think about an answer| 
+|                   |Listen to the question and think about an answer| 
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
