@@ -13,7 +13,17 @@ One person should type in the processes.
 |                   |                                        | Speak:Hello
 |Question: How do I get to the bathroom|                     |
 |                   |Listen to the question and think about an answer| 
-|                   |Listen to the question and think about an answer| 
+|                   |Determine the manner and tone to use to communicate with the person asking the question.| 
+                   |Determine the manner and tone to use to communicate with the person asking the question.| 
+                   Check your mood| 
+                   |If you are in a good mood
+
+If you are not in a good mood| 
+                   |Determine the level of specificity the person asking the question will need - should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience.| 
+                   |Determine the landmarks that should be used to identify if the user is on the right track, e.g. 
+| Determine the landmarks that should be used to determine if the user has gone too far, e.g.|Understand that gratitude has been expressed and respond accordingly|Room 408 (the room with a full-length glass window to the side)| Speak: Your Welcome
+
+
 
 ### Determine the inputs processes and outputs when someone asks for the bathroom: 
 
@@ -55,10 +65,15 @@ Speak:Turn left just before the glass doors to the reception. Look for the bathr
 =======
 |                   |                                        | Speak:Hello                                         |
 |Person says:Hello  |Understand you have just been greeted   |   Speak:Hello                                       |
-|                   |                                        |                                          |
-|                   |                                        |                                                     |
-|                   |                                        |                                                     |
-|                   |                                        |                                                     |
+|                   |                                        |                                          |Output:Smile
+|                   |                                        |                                                     |Output:Dont smile
+|                   |                                        |                                                     |Speak: when you leave this room turn left out elevators
+|
+Speak:Turn left just glass doors.
+
+Output:Room 408
+
+Output: Your Welcome                   |                                        |                                                     |
 |                   |                                        |                                                     |
 |                   |                                        |                                                     |
 |                   |                                        |                                                                       |                                                     |
